@@ -1,0 +1,4 @@
+com\ocrolus\phbooksearch\exception\PhBookSearchException.class
+com\ocrolus\phbooksearch\App.class
+com\ocrolus\phbooksearch\model\PhoneBookData.class
+com\ocrolus\phbooksearch\PhBookDataProcessor.class

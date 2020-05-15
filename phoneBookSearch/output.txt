@@ -1,0 +1,10 @@
+Matches for: Doe
+Result 1: Doe, John, New York, (917) 958-1191
+Result 2: Doe, John, California, (212) 234-1191
+Result 3: Doe, John, Florida, (919) 234-1192
+Matches for: Smith
+Result 1: Smith, John, New York, 9179581191
+Matches for: GAtes
+Result 1: Gates, Bill, New York, (917) 358-1291
+Matches for: Abc
+No results found
